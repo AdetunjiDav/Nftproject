@@ -1,1 +1,1 @@
-# nft-project
+# nft project
